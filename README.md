@@ -1,12 +1,46 @@
-# React + Vite
+🎉 Evently – Event Booking Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Evently is a full-stack event discovery and ticket-booking web application that allows users to browse current and upcoming events, explore event details, view venues, and purchase tickets online.
+Built using React + Vite, Evently delivers high performance, clean UI, and a smooth user experience.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Browse Events – Explore current and upcoming events
 
-## Expanding the ESLint configuration
+📝 Event Details Page – View description, timings, venue info & price
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎟️ Online Ticket Booking UI
+
+🎨 Modern & Responsive Interface
+
+⚡ Super-fast Vite Bundling
+
+📂 Reusable React Components
+
+💡 Simple and beginner-friendly code architecture
+
+🛠️ Tech Stack
+
+Frontend:
+
+React.js
+
+Vite
+
+JavaScript (ES6+)
+
+CSS / Tailwind (if applicable)
+
+Backend (Optional / If Used):
+
+Node.js
+
+Express.js
+
+MongoDB
+
+Tools:
+
+Git & GitHub
+
+VS Code
