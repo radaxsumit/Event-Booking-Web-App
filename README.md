@@ -1,4 +1,4 @@
-# 🎬 RADAMOVIES - React Movie App
+# 🎉 Evently – Event Booking Web App
 
 A modern movie streaming web application built with React, Tailwind CSS, and TMDB API (or fake movie data). Inspired by Netflix and designed for a seamless UI experience.
 
@@ -15,11 +15,14 @@ A modern movie streaming web application built with React, Tailwind CSS, and TMD
 Home Page
  ![image alt](public/Svreenshorts/screencapture-localhost-5174-2025-11-30-17_58_25.png)
 
-Trending Section 
+Event-details
  ![image alt](public/Svreenshorts/screencapture-localhost-5174-EventsDetails-2025-11-30-17_58_42.png)
 
-Movies & Description 
+Search & Sort  
  ![image alt](public/Svreenshorts/screencapture-localhost-5174-EventsList-2025-11-30-17_59_39.png)
+
+ Booking-page
+ ![image alt](public/Svreenshorts/Screenshot 2025-11-30 180012.png)
 
 ##🛠️ Tech Stack
 Frontend:
@@ -33,26 +36,36 @@ Frontend:
 - MongoDB
 
 ## 📁 Folder Structure
-├── src
-│ ├── Components
-│ ├── assets
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
+Event-Booking-Web-App/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│── index.html
+│── package.json
+│── vite.config.js
+│── README.md
+
 
 
 ## 📦 Installation & Running Locally
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/movieverse-app.git
-cd movieverse-app
+1️⃣ Clone the repository
+git clone https://github.com/your-username/Event-Booking-Web-App.git
+cd Event-Booking-Web-App
 
-# 2. Install dependencies
+2️⃣ Install dependencies
 npm install
 
-# 3. Run the app
-npm run dev 
+3️⃣ Start development server
+npm run dev
+
+4️⃣ Build for production
+npm run build
 
 🤝 Contributing
 Pull requests are welcome! For major changes, open an issue first to discuss what you'd like to change.
