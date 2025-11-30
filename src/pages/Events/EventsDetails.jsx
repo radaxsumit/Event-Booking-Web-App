@@ -24,6 +24,9 @@ const EventDetails = () => {
       <div className="mb-12">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 text-gray-900">
           {title} <span className="text-yellow-400">2025</span>
+          <div>
+            <span className=" "> </span>
+          </div>
         </h1>
         <p className="text-gray-600 text-lg max-w-2xl">
           {description ||
